@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+830090216 source:c:\users\rai\desktop\new folder\ict209\practice\registration\codeblocks\course.cpp
+	"course.h"
+
+1235478704 c:\users\rai\desktop\new folder\ict209\practice\registration\codeblocks\course.h
+	<iostream>
+	<string.h>
+
+1235478734 source:c:\users\rai\desktop\new folder\ict209\practice\registration\codeblocks\main.cpp
+	<iostream>
+	<fstream>
+	"course.h"
+	"regist.h"
+
+1235478688 c:\users\rai\desktop\new folder\ict209\practice\registration\codeblocks\regist.h
+	<iostream>
+	"course.h"
+
+1235476234 source:c:\users\rai\desktop\new folder\ict209\practice\registration\codeblocks\regist.cpp
+	"regist.h"
+
+830090216 source:\\sphinx\s900391h\units\ict209\_7y9uq~q\.old15\practice\session02\registration\codeblocks\course.cpp
+	"course.h"
+
+1235478704 \\sphinx\s900391h\units\ict209\_7y9uq~q\.old15\practice\session02\registration\codeblocks\course.h
+	<iostream>
+	<string.h>
+
+1235478734 source:\\sphinx\s900391h\units\ict209\_7y9uq~q\.old15\practice\session02\registration\codeblocks\main.cpp
+	<iostream>
+	<fstream>
+	"course.h"
+	"regist.h"
+
+1235478688 \\sphinx\s900391h\units\ict209\_7y9uq~q\.old15\practice\session02\registration\codeblocks\regist.h
+	<iostream>
+	"course.h"
+
+1235476234 source:\\sphinx\s900391h\units\ict209\_7y9uq~q\.old15\practice\session02\registration\codeblocks\regist.cpp
+	"regist.h"
+
+1457336386 source:c:\users\iskandar\downloads\registration\codeblocks\course.cpp
+	"course.h"
+
+1457336962 c:\users\iskandar\downloads\registration\codeblocks\course.h
+	<iostream>
+	<string.h>
+
+1570548503 source:c:\users\iskandar\downloads\registration\codeblocks\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	"course.h"
+	"regist.h"
+	"result.h"
+	"unit.h"
+	"result.h"
+
+1457336898 c:\users\iskandar\downloads\registration\codeblocks\regist.h
+	<iostream>
+	"course.h"
+
+1457336550 source:c:\users\iskandar\downloads\registration\codeblocks\regist.cpp
+	"regist.h"
+
+1570547854 c:\users\iskandar\downloads\registration\codeblocks\result.h
+
+1570548466 c:\users\iskandar\downloads\registration\codeblocks\unit.h
+	<iostream>
+	<string.h>
+
+1570546844 source:c:\users\iskandar\downloads\registration\codeblocks\unit.cpp
+	"unit.h"
+
+1570548466 source:c:\users\iskandar\downloads\registration\codeblocks\unit.h
+	<iostream>
+	<string.h>
+
+1570547860 source:c:\users\iskandar\downloads\registration\codeblocks\result.cpp
+	"result.h"
+
